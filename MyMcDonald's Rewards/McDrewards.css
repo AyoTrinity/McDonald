@@ -1,0 +1,234 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 45px;
+}
+.list-items ul{
+    display: flex;
+}
+.list-items li{
+    margin: 65px 28px 0px 0px;
+}
+.btn-nav{
+    padding-top: 7px;
+}
+.btn-nav button{
+    padding: 10px 25px;
+    border: none;
+    background-color: #ffbc0d;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.text{
+    padding: 0px 30px 30px 30px;
+}
+.text h1{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 56px;
+}
+.text-p2 span a{
+    color: #006bae;
+    text-decoration: underline;
+}
+.text-p2{
+    padding: 20px 40px 0px 60px;
+    font-size: 10px;
+}
+
+.intro h1{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 56px;
+}
+.intro2-p1{
+    padding: 40px 40px 0px 60px;
+}
+.intro2-p2{
+    padding: 20px 40px 0px 60px;
+    font-size: 10px;
+}
+.intro-p2 span{
+    color: #006bae;
+    text-decoration: underline;
+}
+.intro2{
+    padding: 20px 40px 0px 60px;
+}
+.intro2 h2{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.intro2 p{
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.rewardpoints{
+    display: flex;
+    padding: 20px 40px 0px 60px;
+}
+.rewardpoints-left-head{
+    font-size: 35px;
+}
+.rewardpoints-left-p span{
+    color: #006bae;
+    text-decoration: underline;
+}
+.rewardpoints-left-p{
+    padding: 25px 28px 0px 0px;
+    font-size: 16px;
+}
+.rewardpoints-center{
+    padding-left: 20px;
+}
+.rewardpoints-center-p1{
+    padding: 25px 28px 0px 0px;
+    font-size: 16px;
+}
+.rewardpoints-center-p2{
+    font-size: 10px;
+    padding: 20px 20px 0px 0px;
+}
+.points{
+    display: flex;
+    padding: 20px 40px 100px 40px;
+}
+.points-left h3{
+    padding-top: 35px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.points-left p{
+    padding: 0px 30px 0px 0px;
+}
+.points-left span{
+    color: #006bae;
+    text-decoration: underline;
+}
+.points-right h3{
+    padding-top: 35px;
+    font-size: 38px;
+    font-weight: 400;
+}
+.points-left p{
+    padding-top: 15px;
+}
+.points-right p{
+    padding-top: 15px;
+}
+.points-right-p{
+    font-size: 10px;
+}
+.points-left span{
+    color: #006bae;
+    text-decoration: unline;
+}
+.points-two img{
+    margin: 0px 15px;
+}
+
+.word{
+    justify-content: space-between;
+    padding: 10px 20px 0px 50px;
+}
+.word-1{
+    padding: 0px 30px 30px 30px;
+}
+.word h1{
+    padding: 115px 20px 0px 0px;
+    font-size: 40px;
+}
+.word-1a{
+    padding: 20px 0px 10px 0px;
+    font-size: 40px;
+}
+.word-1b span a{
+    color: #0f80e9;
+    text-decoration: underline;
+}
+.word-1b{
+    padding: 10px 0px 0px 0px;
+}
+.word li{
+    padding: 10px 0px 0px 0px;
+    list-style:decimal;
+}
+.section-text-p3{
+    padding: 20px 0px 0px 0px;
+    font-size: 10px;
+}
+
+footer{
+    padding: 10px 40px 50px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.list-items-header{
+    font-weight: bold;
+}
+footer li{
+    margin: 15px;
+}
+.socials{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px 50px 60px;
+}
+.socials ul{
+    display: flex;
+}
+.socials li{
+    margin: 0px 7px;
+}
+
+.ending{
+    display: flex;
+    justify-content: space-between;
+}
+.ending img{
+    width: 29px;
+    margin-top: 29px;
+}
+.list-items1{
+    display: flex;
+    justify-content: space-between;
+}
+.list-items1 ul{
+    display: flex;
+}
+.list-items1 li{
+    margin: 25px 27px;
+    padding: 0 9px; 
+}
+.list-items2{
+    padding: 23px 35px 0px;
+}
+.ending2{
+    display: flex;
+    justify-content: space-between;
+}
+.ending2 ul{
+    display: flex;
+}
+.ending2 li{
+    margin: 25px 27px;
+}

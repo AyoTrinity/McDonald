@@ -1,0 +1,301 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 45px;
+}
+.list-items ul{
+    display: flex;
+}
+.list-items li{
+    margin: 65px 28px 0px 0px;
+}
+.btn-nav{
+    padding-top: 7px;
+}
+.btn-nav button{
+    padding: 10px 25px;
+    border: none;
+    background-color: #ffbc0d;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.app{
+    margin-top: 50px;
+    margin-left: 460px;
+    font-size: 40px;
+}
+
+.section-one{
+    display: flex;
+    padding: 10px 20px 0px 50px;
+}
+.section-one img{
+    width: 750px;
+    object-fit: contain;
+}
+.section-text{
+    padding: 0px 30px 30px 30px;
+}
+.section-text h1{
+    padding: 115px 20px 0px 0px;
+    font-size: 40px;
+}
+.section-text-p1{
+    padding: 20px 0px 10px 0px;
+}
+.section-text-p1 span a{
+    color: #006bae;
+}
+.section-text-p2{
+    padding: 10px 0px 0px 0px;
+}
+.section-text-p3{
+    padding: 20px 0px 0px 0px;
+    font-size: 10px;
+}
+.section-btn{
+    padding: 40px 0px 0px 0px;
+}
+.section-btn button{
+    padding: 12px 35px;
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.section-two{
+    display: flex;
+    padding: 10px 20px 0px 50px;
+}
+.section-two img{
+    width: 750px;
+    object-fit: contain;
+}
+.section-text1{
+    padding: 0px 30px 30px 30px;
+}
+.section-text1 h1{
+    padding: 115px 20px 0px 0px;
+    font-size: 40px;
+}
+.section-text1-p11{
+    padding: 20px 0px 10px 0px;
+}
+.section-text1-p2 span a{
+    color: #006bae;
+}
+.section-text1-p2{
+    padding: 10px 0px 0px 0px;
+    font-size: 10px;
+}
+.section-btn{
+    padding: 40px 0px 0px 0px;
+}
+.section-btn button{
+    padding: 12px 35px;
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.section-three{
+    display: flex;
+    padding: 10px 20px 0px 50px;
+}
+.section-three img{
+    width: 750px;
+    object-fit: contain;
+}
+.section-text2{
+    padding: 0px 30px 30px 30px;
+}
+.section-text2 h1{
+    padding: 115px 20px 0px 0px;
+    font-size: 40px;
+}
+.section-text2-p11{
+    padding: 20px 0px 10px 0px;
+}
+.section-text2-p2 span a{
+    color: #006bae;
+}
+.section-text2-p2{
+    padding: 10px 0px 0px 0px;
+    font-size: 10px;
+}
+.section-btn{
+    padding: 40px 0px 0px 0px;
+}
+.section-btn button{
+    padding: 12px 35px;
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.section-four{
+    display: flex;
+    padding: 10px 20px 0px 50px;
+}
+.section-four img{
+    width: 750px;
+    object-fit: contain;
+}
+.section-text3{
+    padding: 0px 30px 30px 30px;
+}
+.section-text3 h1{
+    padding: 115px 20px 0px 0px;
+    font-size: 40px;
+}
+.section-text3-p1{
+    padding: 20px 0px 10px 0px;
+}
+.section-text3-p2 span a{
+    color: #006bae;
+}
+.section-text3-p2{
+    padding: 10px 0px 0px 0px;
+    font-size: 10px;
+}
+.section-btn{
+    padding: 40px 0px 0px 0px;
+}
+.section-btn button{
+    padding: 12px 35px;
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.section-five{
+    display: flex;
+    padding: 10px 20px 0px 50px;
+}
+.section-five img{
+    width: 750px;
+    object-fit: contain;
+}
+.section-text3{
+    padding: 0px 30px 30px 30px;
+}
+.section-text3 h1{
+    padding: 115px 20px 0px 0px;
+    font-size: 40px;
+}
+.section-text3-p1{
+    padding: 20px 0px 10px 0px;
+}
+.section-text3-p2 span a{
+    color: #006bae;
+}
+.section-text3-p2{
+    padding: 10px 0px 0px 0px;
+    font-size: 10px;
+}
+.section-btn{
+    padding: 40px 0px 0px 0px;
+}
+.section-btn button{
+    padding: 12px 35px;
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 5px;
+    font-weight: 500;
+}
+.appleplay{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px 50px 6px;
+    margin-right: 215px;
+}
+.appleplay img{
+    width: 150px;
+    height: 150px;
+}
+
+.app2{
+    padding: 0px 30px 30px 30px;
+    margin-left: 30px;
+}
+.app2 h1{
+    padding: 115px 20px 0px 0px;
+    font-size: 40px;
+}
+.section-text5-p1{
+    padding: 20px 0px 10px 0px;
+}
+
+footer{
+    padding: 10px 40px 50px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.list-items-header{
+    font-weight: bold;
+}
+footer li{
+    margin: 15px;
+}
+.socials{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px 50px 60px;
+}
+.socials ul{
+    display: flex;
+}
+.socials li{
+    margin: 0px 7px;
+}
+
+.ending{
+    display: flex;
+    justify-content: space-between;
+}
+.ending img{
+    width: 29px;
+    margin-top: 29px;
+}
+.list-items1{
+    display: flex;
+    justify-content: space-between;
+}
+.list-items1 ul{
+    display: flex;
+}
+.list-items1 li{
+    margin: 25px 27px;
+    padding: 0 9px; 
+}
+.list-items2{
+    padding: 23px 35px 0px;
+}
+.ending2{
+    display: flex;
+    justify-content: space-between;
+}
+.ending2 ul{
+    display: flex;
+}
+.ending2 li{
+    margin: 25px 27px;
+}
